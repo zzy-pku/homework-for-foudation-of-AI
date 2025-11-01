@@ -1,4 +1,4 @@
-# deepseekapi
+# homework for foundation of ai
 高考志愿填报助手
 集成了deepseekapi的高考志愿填报助手
 
